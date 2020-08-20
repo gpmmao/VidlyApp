@@ -8,6 +8,7 @@ namespace VidlyApp.Controllers
 {
     public class HomeController : Controller
     {
+        //updated file from local window.
         public ActionResult Index()
         {
             return View();
